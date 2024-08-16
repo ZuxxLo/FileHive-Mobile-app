@@ -23,6 +23,7 @@ FileHive is a comprehensive secure file sharing platform with a focus on cyberse
 - **Flutter**: Cross-platform mobile development framework.
 - **BLoC**: State management for clean architecture.
 - **Dio**: HTTP client for making API calls and handling errors.
+- **Custom SVG Rendering**: Developed custom widgets to efficiently render SVG images within the Flutter app, ensuring high-quality vector graphics display.
 
 ### Backend
 - **Django**: Backend framework for building the API.
